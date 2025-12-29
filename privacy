@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>多米玩具 - 隐私政策</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.8;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1d1d1f;
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #1d1d1f;
+            font-size: 24px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #333;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        p {
+            margin: 15px 0;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 30px;
+        }
+        li {
+            margin: 8px 0;
+        }
+        .update-date {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+        .contact {
+            background: #f5f5f7;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .highlight {
+            background: #e8f5e9;
+            padding: 15px;
+            border-left: 4px solid #4caf50;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        a {
+            color: #007AFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>隐私政策</h1>
+        <p class="update-date">最后更新日期：2025年12月29日</p>
+
+        <div class="highlight">
+            <strong>简要说明：</strong>《多米玩具》是一款完全离线的单机益智游戏。我们不收集、不存储、不分享您的任何个人信息。
+        </div>
+
+        <h2>1. 关于本应用</h2>
+        <p>《多米玩具》（以下简称"本应用"）是一款面向所有年龄段用户的益智游戏应用，包含汉诺塔、中国地图拼图、数字华容道等经典益智游戏。</p>
+
+        <h2>2. 信息收集</h2>
+        <h3>2.1 我们不收集任何个人信息</h3>
+        <p>本应用是一款完全离线运行的单机游戏，<strong>不收集、不存储、不传输</strong>用户的任何个人信息，包括但不限于：</p>
+        <ul>
+            <li>姓名、电话号码、电子邮件地址等身份信息</li>
+            <li>设备标识符（IDFA、设备ID等）</li>
+            <li>地理位置信息</li>
+            <li>通讯录、相册等设备数据</li>
+            <li>游戏进度、成绩等使用数据</li>
+        </ul>
+
+        <h3>2.2 本地数据存储</h3>
+        <p>本应用仅在您的设备本地存储游戏进度和设置信息，这些数据：</p>
+        <ul>
+            <li>仅存储在您的设备上</li>
+            <li>不会上传到任何服务器</li>
+            <li>不会与第三方共享</li>
+            <li>随应用卸载而自动删除</li>
+        </ul>
+
+        <h2>3. 权限使用</h2>
+        <p>本应用<strong>不请求任何系统权限</strong>，无需访问：</p>
+        <ul>
+            <li>网络连接</li>
+            <li>相机或相册</li>
+            <li>麦克风</li>
+            <li>通讯录</li>
+            <li>位置信息</li>
+            <li>其他任何敏感权限</li>
+        </ul>
+
+        <h2>4. 第三方服务</h2>
+        <p>本应用<strong>不集成任何第三方服务</strong>，包括：</p>
+        <ul>
+            <li>无广告服务</li>
+            <li>无数据分析服务</li>
+            <li>无社交媒体插件</li>
+            <li>无支付服务</li>
+        </ul>
+
+        <h2>5. 儿童隐私保护</h2>
+        <p>本应用适合所有年龄段用户使用。由于我们不收集任何用户信息，因此不存在儿童隐私数据收集的情况。家长可以放心让儿童使用本应用。</p>
+
+        <h2>6. 数据安全</h2>
+        <p>由于本应用不收集或传输任何用户数据，因此不存在数据泄露风险。所有游戏数据仅存储在您的设备本地，受设备系统安全机制保护。</p>
+
+        <h2>7. 隐私政策的更新</h2>
+        <p>我们可能会不定期更新本隐私政策。更新后的政策将在本页面发布，并更新"最后更新日期"。如有重大变更，我们将在应用内通知用户。</p>
+
+        <h2>8. 联系我们</h2>
+        <div class="contact">
+            <p>如果您对本隐私政策有任何疑问、意见或建议，欢迎通过以下方式联系我们：</p>
+            <p><strong>电子邮箱：</strong><a href="mailto:liudongmeildm@126.com">liudongmeildm@126.com</a></p>
+            <p>我们将在收到您的反馈后尽快回复。</p>
+        </div>
+
+        <h2>9. 适用法律</h2>
+        <p>本隐私政策的解释、执行和争议解决均适用中华人民共和国法律。</p>
+
+        <div class="footer">
+            <p>© 2025 多米玩具</p>
+            <p>版本 1.0</p>
+        </div>
+    </div>
+</body>
+</html>
